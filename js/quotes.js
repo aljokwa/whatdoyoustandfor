@@ -1,0 +1,22 @@
+const politicalQuotes = [
+    "The only way to deal with an unfree world is to become so absolutely free that your very existence is an act of rebellion.",
+    "The revolution is not an apple that falls when it is ripe. You have to make it fall.",
+    "The state is nothing but an instrument of oppression of one class by another.",
+    "Property is theft!",
+    "The history of all hitherto existing society is the history of class struggles.",
+    "The philosophers have only interpreted the world, in various ways. The point is to change it.",
+    "The free market is the most efficient system known to man.",
+    "Taxation is theft!",
+    "The state is the coldest of all cold monsters.",
+    "The only way to deal with an unfree world is to become so absolutely free that your very existence is an act of rebellion.",
+    "The revolution will not be televised.",
+    "The state is nothing but an instrument of oppression of one class by another.",
+    "Property is theft!",
+    "The history of all hitherto existing society is the history of class struggles.",
+    "The philosophers have only interpreted the world, in various ways. The point is to change it.",
+    "The free market is the most efficient system known to man.",
+    "Taxation is theft!",
+    "The state is the coldest of all cold monsters.",
+    "The only way to deal with an unfree world is to become so absolutely free that your very existence is an act of rebellion.",
+    "The revolution will not be televised."
+]; 
